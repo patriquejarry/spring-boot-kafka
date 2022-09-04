@@ -21,6 +21,6 @@ Thanks for
 
 ## API
 * To send message
-    * http://localhost:8080/producer/&lt;message&gt;
+    * http://localhost:8080/producer/ &lt;message&gt;
 
 
