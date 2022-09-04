@@ -16,11 +16,11 @@ Thanks for
 
 ## Run
 * docker-composer up
-* java -jar target/kafka-consumer-\<version>.jar
-* java -jar target/kafka-producer-\<version>.jar
+* java -jar target/kafka-consumer-&lt;version&gt;.jar
+* java -jar target/kafka-producer-&lt;version&gt;.jar
 
 ## API
 * To send message
-    * http://localhost:8080/producer/\<message>
+    * http://localhost:8080/producer/&lt;message&gt;
 
 
